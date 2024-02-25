@@ -1,0 +1,6 @@
+{
+  "template": "templates/daily",
+  "autorun": true,
+  "folder": "tasks",
+  "format": "DD-MM-YYYY"
+}
