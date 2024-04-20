@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA notes/BubbleSort/Bubble Sort Program.md",
+                "file": "tasks/09-04-2024.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA notes/BubbleSort/Bubble Sort Program.md",
+                "file": "tasks/09-04-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA notes/BubbleSort/Bubble Sort Program.md",
+                "file": "tasks/09-04-2024.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA notes/BubbleSort/Bubble Sort Program.md"
+                "file": "tasks/09-04-2024.md"
               }
             }
           },
@@ -214,8 +214,9 @@
   },
   "active": "ff94e9dc9a6fa377",
   "lastOpenFiles": [
-    "tasks/16-02-2024.md",
     "DSA notes/BubbleSort/Bubble Sort Program.md",
+    "tasks/09-04-2024.md",
+    "tasks/16-02-2024.md",
     "DSA notes/BubbleSort/Bubble Sort.md",
     "DSA notes/BubbleSort",
     "tasks/17-01-2024.md",
@@ -248,7 +249,6 @@
     "DSA notes/Traversal in Binary Tree (InOrder, PostOrder and PreOrder Traversals).md",
     "DSA notes/LinkedList/Linked List Creation and Traversal in C Language.md",
     "DSA notes/LinkedList/Introduction to Linked List in Data Structures.md",
-    "DSA notes/LinkedList/Insertion of a Node in a Linked List Data Structure.md",
-    "C Language in one note.md"
+    "DSA notes/LinkedList/Insertion of a Node in a Linked List Data Structure.md"
   ]
 }
